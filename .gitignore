@@ -1,0 +1,7 @@
+/.idea/
+/node_modules/
+/.env
+/app.js
+/tests/**/*.js
+/logic/**/*.js
+/routers/**/*.js
